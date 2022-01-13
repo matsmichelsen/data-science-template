@@ -1,6 +1,9 @@
-## Hello world
+## Geospatial Analyse av ulykker
 
-I am Anders LH!
+Gruppe:
+- Ann Karin Myrland Halvorsen
+- Mats Güttner Michelsen
+- Kenneth Sørensen
 
 Content:
 
